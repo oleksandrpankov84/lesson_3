@@ -1,0 +1,17 @@
+.text{
+	color: blue;
+}
+h2{
+	color: green;
+}
+.block,
+.tabl{
+	color: darkgray;
+}
+footer{
+	color: blueviolet;
+}
+.prim,
+.pos{
+	color: rgb(58, 150, 150);
+}
